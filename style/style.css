@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(200, 181, 245);
+  }
+  h1 {
+    color: rgb(133, 133, 236);
+  }
+  h2 {
+    color: blue;
+  }
+  h3 {
+    color: rgb(234, 0, 255);
+  }
+  h4 {
+    color: rgb(255, 0, 0);
+  }
+  h5 {
+    color: rgb(0, 225, 255);
+  }
+  h6 {
+    color: rgb(81, 255, 0);
+  }
+
+  p {
+    color: rgb(255, 153, 0);
+  }
