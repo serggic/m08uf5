@@ -1,24 +1,24 @@
 body {
-    background-color: rgb(200, 181, 245);
+    background-color: rgb(146, 146, 146);
   }
   h1 {
-    color: rgb(133, 133, 236);
+    color: hsl(240, 60%, 56%);
   }
   h2 {
-    color: blue;
+    color: hsl(240, 60%, 56%);
   }
   h3 {
-    color: rgb(234, 0, 255);
+    color: hsl(240, 60%, 56%);
   }
   h4 {
-    color: rgb(255, 0, 0);
+    color: hsl(240, 60%, 56%);
   }
   h5 {
-    color: rgb(0, 225, 255);
+    color: hsl(240, 60%, 56%);
   }
   h6 {
-    color: rgb(81, 255, 0);
+    color: hsl(240, 60%, 56%);
   }
   p {
-    color: rgb(255, 153, 0);
+    color: hsl(240, 60%, 56%);
   }
