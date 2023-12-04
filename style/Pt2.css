@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(146, 146, 146);
+  }
+table {
+    border:1px solid black;   
+    margin: 25% auto;
+    width: 1000px;
+    height: 500px;
+    background-size: cover;
+    }
+    th {
+    border:1px solid black; 
+    width: 180px;
+    height: 30px;
+    background-size: cover;
+    }
+    td {
+    border:1px solid black;
+    text-align: center;
+    background-size: cover;       
+    }
+.m08 {
+background-size: cover;
+color: rgb(0, 0, 0);
+font-family: sans-serif;
+font-size: 18px;
+}
+.m07 {
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.m06 {
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.m12 {
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.m04 {
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.tut {
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 14px;
+}
+#icono {
+    width: 50px;
+    height: 35px;
+}
+.or21 {
+    font-style: italic;
+}
+a {
+    color: rgb(164, 113, 187);
+}
